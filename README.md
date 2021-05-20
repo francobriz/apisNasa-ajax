@@ -7,4 +7,4 @@
 - (img- para la foto astronomica del dia elegido).
 
 ***Parte 2***
-- Agregamos un (input type="date"), para seleccionar la fecha que se consultar. Al clickear el boton, agregamos ese dato a la URL de la consulta.
+- Agregamos un (input type="date"), para seleccionar la fecha que se quiere consultar. Al clickear el boton, agregamos ese dato a la URL de la consulta.
